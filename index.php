@@ -3,8 +3,8 @@
 <head> 
 <meta charset="utf-8">
 <title>건국 동호회</title>
-<link rel="stylesheet" type="text/css" href="./css/common.css">
-<link rel="stylesheet" type="text/css" href="./css/main.css">
+<link rel="stylesheet" type="text/css" href="./common.css">
+<link rel="stylesheet" type="text/css" href="./main.css">
 </head>
 <body> 
 	<header>

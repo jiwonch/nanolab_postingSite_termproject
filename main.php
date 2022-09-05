@@ -1,5 +1,5 @@
         <div id="main_img_bar">
-            <img src="./img/main_img.png">
+            <img src="./main_img.png">
         </div>
         <div id="main_content">
             <div id="latest">
@@ -7,7 +7,7 @@
                 <ul>
 <!-- 최근 게시 글 DB에서 불러오기 -->
 <?php
-    $con = mysqli_connect("localhost", "root", "root", "nanolab");
+    $con = mysqli_connect("localhost", "jiwonch", "wldnjs9711!!", "jiwonch");
     $sql = "select * from board order by num desc limit 5";
     $result = mysqli_query($con, $sql);
 
